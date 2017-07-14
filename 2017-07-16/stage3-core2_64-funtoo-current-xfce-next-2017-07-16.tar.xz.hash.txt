@@ -1,0 +1,4 @@
+MD5   (stage3-core2_64-funtoo-current-xfce-next-2017-07-16.tar.xz) = 62e63adecca066aa1d43c4c3a3652dab
+WHIRLPOOL (stage3-core2_64-funtoo-current-xfce-next-2017-07-16.tar.xz) = 343ec55016a8aad2f1c636f92b2292fee5bc0b5b50a212084aa2646a6a207ab2bf482c3bb5f3ba89ec9fe14f2a8abd381d841eefdd571bd4ca8056c73c9c5c87
+SHA-256 (stage3-core2_64-funtoo-current-xfce-next-2017-07-16.tar.xz) = 86b59f5be4dc9baa48dda5c16ae69efe329b7be8ec04ae16ed74ad6227491650
+SHA-512 (stage3-core2_64-funtoo-current-xfce-next-2017-07-16.tar.xz) = 6fca799d6fdbf7d89f188954b8254f6164473fe050b46e1fbb22e8852729974b44dbded5764e2efb06cb06e3a1c0d8fe214ad4a885e7acfea4304b91d8894bc7
