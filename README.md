@@ -1,5 +1,11 @@
 # Funtoo Stage 3 Xfce
 
+
+## Geneate the hash
+
+`$ whirlpool-hash --bsd --md5 --sha256 --sha512 --whirlpool file > file.hash.txt`
+
+
 ## Install Funtoo
 
 `http://www.funtoo.org/Install`
