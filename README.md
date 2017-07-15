@@ -1,5 +1,9 @@
 # Funtoo Stage 3 Xfce
 
+## Clone
+
+`git clone git@github.com:robertov82008/funtoo-current-xfce-next.git /home/mirror && cd /home/mirror`
+
 
 ## Geneate the hash
 
